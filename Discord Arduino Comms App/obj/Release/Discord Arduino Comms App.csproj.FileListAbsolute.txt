@@ -22,3 +22,7 @@ C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\
 C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Release\Discord Arduino Comms App.application
 C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Release\Discord Arduino Comms App.exe
 C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Release\Discord Arduino Comms App.pdb
+C:\Users\maxim\Documents\GitHub\Discord Arduino Comms App\Discord Arduino Comms App\bin\Release\Discord Arduino Comms App.exe.manifest
+C:\Users\maxim\Documents\GitHub\Discord Arduino Comms App\Discord Arduino Comms App\bin\Release\Discord Arduino Comms App.application
+C:\Users\maxim\Documents\GitHub\Discord Arduino Comms App\Discord Arduino Comms App\obj\Release\Discord Arduino Comms App.exe.manifest
+C:\Users\maxim\Documents\GitHub\Discord Arduino Comms App\Discord Arduino Comms App\obj\Release\Discord Arduino Comms App.application
