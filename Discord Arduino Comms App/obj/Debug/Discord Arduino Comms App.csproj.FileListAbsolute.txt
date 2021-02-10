@@ -12,3 +12,17 @@ C:\Users\maxim\Documents\GitHub\Discord Arduino Comms App\Discord Arduino Comms 
 C:\Users\maxim\Documents\GitHub\Discord Arduino Comms App\Discord Arduino Comms App\bin\Debug\Discord Arduino Comms App.application
 C:\Users\maxim\Documents\GitHub\Discord Arduino Comms App\Discord Arduino Comms App\obj\Debug\Discord Arduino Comms App.exe.manifest
 C:\Users\maxim\Documents\GitHub\Discord Arduino Comms App\Discord Arduino Comms App\obj\Debug\Discord Arduino Comms App.application
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\bin\Debug\Discord Arduino Comms App.exe.config
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\bin\Debug\Discord Arduino Comms App.exe.manifest
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\bin\Debug\Discord Arduino Comms App.application
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\bin\Debug\Discord Arduino Comms App.exe
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\bin\Debug\Discord Arduino Comms App.pdb
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Debug\Discord Arduino Comms App.csprojAssemblyReference.cache
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Debug\Discord_Arduino_Comms_App.DiscordArduinoCommsApp.resources
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Debug\Discord_Arduino_Comms_App.Properties.Resources.resources
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Debug\Discord Arduino Comms App.csproj.GenerateResource.cache
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Debug\Discord Arduino Comms App.csproj.CoreCompileInputs.cache
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Debug\Discord Arduino Comms App.exe.manifest
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Debug\Discord Arduino Comms App.application
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Debug\Discord Arduino Comms App.exe
+C:\Users\Nikol\source\repos\Discord-Arduino-Comms-App\Discord Arduino Comms App\obj\Debug\Discord Arduino Comms App.pdb
