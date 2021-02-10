@@ -6,17 +6,21 @@ namespace Discord_Arduino_Comms_App
 {
     class Http
     {
+        // We are creating a public byte array method. With the parameter url, NameValueCollection pairs.
         public static byte[] Post(string url, NameValueCollection pairs)
         {
+            // We are creating a new WebClient called webClient
             using (WebClient webClient = new WebClient())
             {
+                // Created a try cath, to deal with errors
                 try
                 {
                     return webClient.UploadValues(url, pairs);
                 }
-                catch (System.Exception)
+                catch (System.Exception q)
                 {
-                    MessageBox.Show("The remote server returned an error: (429) Too Many Requests", "Error :/",
+                    // A messagebox will popup when an error may occurr
+                    MessageBox.Show($"{q}", "Error :/",
                         MessageBoxButtons.OK, MessageBoxIcon.Error);
                     throw;
                 }
