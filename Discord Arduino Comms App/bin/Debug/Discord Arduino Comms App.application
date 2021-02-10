@@ -7,14 +7,14 @@
     <framework targetVersion="4.7.2" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Discord Arduino Comms App.exe.manifest" size="4043">
+    <dependentAssembly dependencyType="install" codebase="Discord Arduino Comms App.exe.manifest" size="4033">
       <assemblyIdentity name="Discord Arduino Comms App.exe" version="1.0.0.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>ZTbBcZ/B/YOQG3i/wPST4s6+8bunWDUE7siYTp3ii2Y=</dsig:DigestValue>
+        <dsig:DigestValue>BUmBm2r/ztpvIYj18XIKbqbgCWawAjlDVWso/ZNVf04=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

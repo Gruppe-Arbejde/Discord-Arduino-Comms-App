@@ -56,9 +56,10 @@ namespace Discord_Arduino_Comms_App
             this.lAutoBesked.AutoSize = true;
             this.lAutoBesked.Location = new System.Drawing.Point(12, 9);
             this.lAutoBesked.Name = "lAutoBesked";
-            this.lAutoBesked.Size = new System.Drawing.Size(156, 26);
+            this.lAutoBesked.Size = new System.Drawing.Size(140, 65);
             this.lAutoBesked.TabIndex = 4;
-            this.lAutoBesked.Text = "Min kommunikation virker ikke. \r\nDette er en automatisk besked.\r\n";
+            this.lAutoBesked.Text = "Min kommunikation er nede!\r\n\r\nDette er et nødsignal!\r\n\r\n*Denne besked automatisk*" +
+    "";
             // 
             // pictureBox1
             // 
