@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Discord Arduino Comms App.exe" size="606176">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Discord Arduino Comms App.exe" size="606688">
       <assemblyIdentity name="Discord Arduino Comms App" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Q45yyJ8V/EMNteH9iqcDtSQTmrS5xuGLWAMq7b57IMI=</dsig:DigestValue>
+        <dsig:DigestValue>mH8nTXGHAZp5J1CWx2OAW+yxF+kyIYnoqxq2MAogLvU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
