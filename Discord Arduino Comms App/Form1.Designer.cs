@@ -29,6 +29,7 @@ namespace Discord_Arduino_Comms_App
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(DiscordArduinoCommsApp));
             this.bSendIt = new System.Windows.Forms.Button();
             this.lAutoBesked = new System.Windows.Forms.Label();
             this.SuspendLayout();
@@ -60,6 +61,7 @@ namespace Discord_Arduino_Comms_App
             this.ClientSize = new System.Drawing.Size(204, 148);
             this.Controls.Add(this.lAutoBesked);
             this.Controls.Add(this.bSendIt);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.Name = "DiscordArduinoCommsApp";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
