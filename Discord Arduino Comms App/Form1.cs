@@ -27,7 +27,7 @@ namespace Discord_Arduino_Comms_App
             });
         }
 
-        // Automatically send the message, in case the user doesn't have access to keyboard, mouse to press the button.
+        // Automatically send the message, in case the user doesn't have access to the keyboard, mouse to press the button.
         protected override void OnShown(EventArgs e)
         {
             base.OnShown(e);
